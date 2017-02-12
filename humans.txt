@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Web designer: Javier Sánchez Oliva
+	Twitter: @javdev84
+	From:Malpartida de Plasencia, Cáceres, Spain
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Modernizr
+    
+/* SITE */
+	Last update:2017/02/12
+	Language: Castellano
+	Doctype:HTML5
+	IDE: Brackets, Gimp 2
