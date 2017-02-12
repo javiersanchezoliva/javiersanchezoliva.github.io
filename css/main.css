@@ -185,7 +185,7 @@ h1{
       font-size: 20px;          
     }    
     h1{
-        line-height: 700%;
+        line-height: 500%;
     }
 }
 
@@ -193,7 +193,6 @@ h1{
 h2{
     margin-bottom: 1.2em;  
     color: #009ed5;
-    text-shadow: 0em 0em 3em black;
 }
 
 main{
